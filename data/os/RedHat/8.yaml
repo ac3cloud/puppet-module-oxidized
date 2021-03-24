@@ -7,8 +7,6 @@ oxidized::install_dependencies:
   - which
   - sqlite-devel
   - openssl-devel
-  - libssh2-devel
-  - ruby
   - gcc
   - ruby-devel
   - libicu-devel
